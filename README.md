@@ -1,0 +1,1 @@
+This is Shane McNeil's first git project!
